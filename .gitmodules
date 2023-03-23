@@ -3,3 +3,43 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CoreGx"]
+	path = CoreGx
+	url = https://git.bioconductor.org/packages/CoreGx
+	shallow = true
+	registered = true
+[submodule "genefu"]
+	path = genefu
+	url = https://git.bioconductor.org/packages/genefu
+	shallow = true
+	registered = true
+[submodule "MM2S"]
+	path = MM2S
+	url = https://github.com/cran/MM2S
+	shallow = true
+	registered = true
+[submodule "MM2Sdata"]
+	path = MM2Sdata
+	url = https://github.com/cran/MM2Sdata
+	shallow = true
+	registered = true
+[submodule "RadioGx"]
+	path = RadioGx
+	url = https://git.bioconductor.org/packages/RadioGx
+	shallow = true
+	registered = true
+[submodule "SIGN"]
+	path = SIGN
+	url = https://github.com/cran/SIGN
+	shallow = true
+	registered = true
+[submodule "survcomp"]
+	path = survcomp
+	url = https://git.bioconductor.org/packages/survcomp
+	shallow = true
+	registered = true
+[submodule "ToxicoGx"]
+	path = ToxicoGx
+	url = https://git.bioconductor.org/packages/ToxicoGx
+	shallow = true
+	registered = true

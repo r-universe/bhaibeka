@@ -5,9 +5,6 @@
 [submodule "CoreGx"]
 	path = CoreGx
 	url = https://git.bioconductor.org/packages/CoreGx
-[submodule "MM2S"]
-	path = MM2S
-	url = https://github.com/cran/MM2S
 [submodule "MM2Sdata"]
 	path = MM2Sdata
 	url = https://github.com/cran/MM2Sdata

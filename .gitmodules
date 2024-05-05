@@ -2,24 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CoreGx"]
-	path = CoreGx
-	url = https://git.bioconductor.org/packages/CoreGx
 [submodule "MM2Sdata"]
 	path = MM2Sdata
 	url = https://github.com/cran/MM2Sdata
-[submodule "RadioGx"]
-	path = RadioGx
-	url = https://git.bioconductor.org/packages/RadioGx
 [submodule "SIGN"]
 	path = SIGN
 	url = https://github.com/cran/SIGN
-[submodule "ToxicoGx"]
-	path = ToxicoGx
-	url = https://git.bioconductor.org/packages/ToxicoGx
-[submodule "genefu"]
-	path = genefu
-	url = https://git.bioconductor.org/packages/genefu
-[submodule "survcomp"]
-	path = survcomp
-	url = https://git.bioconductor.org/packages/survcomp
